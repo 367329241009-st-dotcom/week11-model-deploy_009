@@ -5,3 +5,4 @@ pandas==2.2.2
 joblib==1.5.3
 Pillow==10.4.0
 Orange3==3.40.0
+ndf==0.1.4
